@@ -1,11 +1,11 @@
 import React from 'react';
 import { Card } from '../components/Card';
-
+import { Newsletter } from '../components/Newsletter';
 const Home = () => {
   return (
     <>
-      <h1>Hello Word</h1>
       <Card />
+      <Newsletter />
     </>
   );
 };

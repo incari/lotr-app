@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { useQuote } from '../hooks/useQuote';
 import { Quotes } from './Quotes';
 
 import { docs } from '../DB/quotes.json';
@@ -10,19 +11,25 @@ export const Card = () => {
     movie: 'The Fellowship of the Ring',
     character: 'The Ring-inscription'
   };
-  const [random, useRandom] = useState(31);
+  const [random, setRandom] = useState(0);
 
   const handleClick = () => {
-    let randomQuote = Math.floor(Math.random() * 101);
-    return randomQuote;
+    let randomQuote = Math.floor(Math.random() * 2391);
+    setRandom(randomQuote);
   };
+
+  //  const random = useQuote(randomQuote);
 
   return (
     <>
       <button name='button' onClick={handleClick}>
         Get Random Quote
       </button>
-      <Quotes {...initialState} />
+      {random === 0 ? (
+        <Quotes {...initialState} />
+      ) : (
+        <Quotes {...docs[random]} />
+      )}
     </>
   );
 };
