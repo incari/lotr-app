@@ -1,0 +1,725 @@
+{
+  "docs": [
+    {
+      "_id": "5cd96e05de30eff6ebcce7e9",
+      "dialog": "Deagol!",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7ea",
+      "dialog": "Deagol!",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7eb",
+      "dialog": "Deagol!",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7ec",
+      "dialog": "Give us that! Deagol my love",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7ed",
+      "dialog": "Why?",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfca7"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7ee",
+      "dialog": "Because' , it's my birthday and I wants it.  ",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7ef",
+      "dialog": "Arrghh!",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfca7"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7f0",
+      "dialog": "They cursed us",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7f1",
+      "dialog": "Murderer)",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7f2",
+      "dialog": "'Murderer' they called us. They cursed us and drove us away.",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7f3",
+      "dialog": "Pull it in! Go on, go on, go on, pull it in!  ",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7f4",
+      "dialog": "Oh Smeagol Ive got one! , Ive got a fish Smeagol, Smeagol!    ",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfca7"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7f5",
+      "dialog": "My precious.",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7f6",
+      "dialog": "Gandalf?",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfc15"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7f7",
+      "dialog": "Oooohhh!",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfc15"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7f8",
+      "dialog": "Frodo!",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfc7c"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7f9",
+      "dialog": "Aaaahh!",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfd23"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7fa",
+      "dialog": "and cool, so nice for feet' and we only wish to catch a fish    , so juicy sweet.  ",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7fb",
+      "dialog": "Gimli!",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfc15"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7fc",
+      "dialog": "My precious!",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebcce7fd",
+      "dialog": "Wake up! , Wake up!     ,Wake up sleepies! We must go, yes, we must go at once.  ",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef1f",
+      "dialog": "Children's stories that's all that is.  You're beginning to sound     like that old Bilbo Baggins! Cracked he was!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfdf1"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef20",
+      "dialog": " ,   ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfe2e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef21",
+      "dialog": "Hello, Hello, Fatty Bolger , Lovely to see you, Welcome, Welcome ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfc38"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef22",
+      "dialog": " Go     on Sam, ask Rosie for a dance. ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfc15"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef23",
+      "dialog": "Take her by the safest road. A ship lies anchored in the Grey Havens. It     waits to carry her across the sea. The last journey of Arwen Und'miel.",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfcc8"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef24",
+      "dialog": "Frodo f'r. Ae athradon i hir, tur gwaith nin beriatha hon. ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfc07"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef25",
+      "dialog": "Arwen.",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfcc8"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef26",
+      "dialog": "You have the gift of foresight. What did you see?",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfc07"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef27",
+      "dialog": "I looked into your future and I saw death.",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfcc8"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef28",
+      "dialog": "But there is also life. You saw there was a child. You saw my son.",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfc07"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef29",
+      "dialog": "For within these rings was bound the strength and will     to govern each race. ,     But they were all of them deceived. ,For another ring was made. , In the land of Mordor, ,in the fires of Mount Doom (, the dark Lord Sauron forged in     secret a master Ring ,to control all others and into this Ring he poured     all his cruelty, his malice , and his will to     dominate all life. , One Ring to rule them all.  ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd06"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef2a",
+      "dialog": "One by one the free lands of Middle Earth fell to the     power of the Ring. But there were some who resisted. , A last     alliance of Elves and Men marched against the armies of Mordor. And on the     slopes of Mount Doom they fought for the freedom of Middle Earth.  ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd06"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef2b",
+      "dialog": "Lady Arwen we cannot delay. , My lady! ",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cdbe3667ed9587226e7949e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef2c",
+      "dialog": "Tell me what you have seen.",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfc07"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef2d",
+      "dialog": "There is nothing for you here only death.",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfcc8"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef2e",
+      "dialog": "Tangado haid!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfcc8"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef2f",
+      "dialog": "Sauron, the enemy of the Free Peoples of Middle Earth     was defeated. , The Ring passed to Isildur.    , Who had this one chance to destroy evil     forever. , But the hearts of Men are easily corrupted.    ,     And the Ring of Power has a will of its own.  ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd06"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef30",
+      "dialog": "It betrayed Isildur ,to his death. ,And some things that should not have been forgotten were lost.    ,History became legend, legend     became myth, , and for two and a half thousand years the Ring passed out of     all knowledge. , Until, when chance came    , It     ensnared a new bearer.  ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd06"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef31",
+      "dialog": "My Precious!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef32",
+      "dialog": "The Ring came to the creature Gollum who took it deep     into the tunnels of the Misty Mountains. , And there it consumed him. ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd06"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef33",
+      "dialog": "It came to me, my own, my love, my own, my Precious.     ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef34",
+      "dialog": "The Ring brought to Gollum unnatural long life. For     five hundred years it poisoned his mind. And in the gloom of Gollum's cave     it waited. ,     Darkness crept back into the forests of the world. Rumour grew of a shadow     in the East, whispers of a nameless fear. , And     the Ring of Power perceived. ,     Its time had now come. , It abandoned Gollum.    , But something happened then     that the Ring did not intend, it was picked up by the most unlikely creature     imaginable.  ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd06"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef35",
+      "dialog": "Victory was near. , But the     power of the Ring , could not be undone.  ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd06"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef36",
+      "dialog": "Leithio i philinn!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfcc8"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef37",
+      "dialog": "It was in this moment, ,that Isildur, son of the King, took up his father's sword.  ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd06"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef38",
+      "dialog": "So' it's a drinking game?",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfd81"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef39",
+      "dialog": "Aye!",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cdbe49b7ed9587226e794a0"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef3a",
+      "dialog": "A Hobbit. Bilbo Baggins of the Shire.",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd06"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef3b",
+      "dialog": "What's this?",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfc38"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef3c",
+      "dialog": "Last one standing wins heh heh heh!",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfd23"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef3d",
+      "dialog": "Lets drink to Victory! To Victory!",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cdbe49b7ed9587226e794a0"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef3e",
+      "dialog": "West' Aragorn, hal ",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cdbdecb6dc0baeae48cfa59"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef3f",
+      "dialog": "And no regurgitation!",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfd23"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef40",
+      "dialog": "I am very happy for you. He is an honourable man.",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe19"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef41",
+      "dialog": "Heh heh heh heh ,Here, here. , Raaar it's the dwarves that go swimming with little, hairy women haha  ",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfd23"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef42",
+      "dialog": "I feel something. , A slight tingle in my fingers. I think it's affecting me.  ",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfd81"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef43",
+      "dialog": "heh heh heh , what did I say? He can't hold his liquor.  ",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfd23"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef44",
+      "dialog": "Game over!",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfd81"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef45",
+      "dialog": "Oh you can search far and wide, You can drink the whole town dry    ,     But you'll never find a beer so brown, But you'll never find a beer so     brown,     As the one we drink in our hometown, As the one we drink in our hometown.    ,You can drink your fancy ales, You can drink them by the flagon             But the only brew for the brave and true,     ",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe2e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef46",
+      "dialog": "Nothing's     happening",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfe2e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef47",
+      "dialog": "It was not Theoden of Rohan who led our people to victory.",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe19"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef48",
+      "dialog": "What're you going to do then ?",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfe2e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef49",
+      "dialog": "Ach, don't listen to me. You are young and tonight is for you. ",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cd99d4bde30eff6ebccfe19"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef4a",
+      "dialog": "You are both honourable men.",
+      "movie": "5cd95395de30eff6ebccde5d",
+      "character": "5cdbdecb6dc0baeae48cfa59"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef4b",
+      "dialog": " I once knew every spell in all the tongues of elves, men and     orcs ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfea0"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef4c",
+      "dialog": "BuBye Bill",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd0d"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef4d",
+      "dialog": "Go on, go on ,Don't worry Sam.  He knows the way home. ,) ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfbe6"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef4e",
+      "dialog": "Do not     disturb the water",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfbe6"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef4f",
+      "dialog": "Oh it's useless",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfea0"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef50",
+      "dialog": "It's a riddle!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfc15"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef51",
+      "dialog": "Speak friend... and enter.  What's the elvish word for     friend ?",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfc15"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef52",
+      "dialog": "Mel..lon",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfea0"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef53",
+      "dialog": "Ando Eldarinwa'a lasta quettanya, Fenda Casarinwa' ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfea0"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef54",
+      "dialog": "No. Ashes and dust and thirst there isand pits, pits, pits.And Orcses, thousands of Orcses.And always the Great Eye watching,watching. ",
+      "movie": "5cd95395de30eff6ebccde5b",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef55",
+      "dialog": "Knock your head against these doors Peregrin Took! and if     that does not shatter them and I'm allowed a little peace from foolish     questions I will try to find the opening words.",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfea0"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef56",
+      "dialog": "Merry!Merry!",
+      "movie": "5cd95395de30eff6ebccde5b",
+      "character": "5cd99d4bde30eff6ebccfe2e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef57",
+      "dialog": "This way, Hobbits.Follow me! ",
+      "movie": "5cd95395de30eff6ebccde5b",
+      "character": "5cd99d4bde30eff6ebccfe9e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef58",
+      "dialog": "Hey! Come back now! Come back!There! What did I tell you?He's run off, the old villain.So much for his promises. ",
+      "movie": "5cd95395de30eff6ebccde5b",
+      "character": "5cd99d4bde30eff6ebccfd0d"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef59",
+      "dialog": "You're lateOur master grows impatient.He wants the Shire-rats now.",
+      "movie": "5cd95395de30eff6ebccde5b",
+      "character": "5cdbdecb6dc0baeae48cfa94"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef5a",
+      "dialog": "The Mines are no place for a pony even one so brave as Bill.",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfbe6"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef5b",
+      "dialog": "Merry! Merry? Wake up",
+      "movie": "5cd95395de30eff6ebccde5b",
+      "character": "5cd99d4bde30eff6ebccfe2e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef5c",
+      "dialog": "Sick, is he?Give him some medicine, boys! ",
+      "movie": "5cd95395de30eff6ebccde5b",
+      "character": "5cdbe49b7ed9587226e794a0"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef5d",
+      "dialog": "Stop it!",
+      "movie": "5cd95395de30eff6ebccde5b",
+      "character": "5cd99d4bde30eff6ebccfe2e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef5e",
+      "dialog": "Can't take his draught!",
+      "movie": "5cd95395de30eff6ebccde5b",
+      "character": "5cdbe49b7ed9587226e794a0"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef5f",
+      "dialog": "Leave him alone!",
+      "movie": "5cd95395de30eff6ebccde5b",
+      "character": "5cd99d4bde30eff6ebccfe2e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef60",
+      "dialog": "Why?You want some?",
+      "movie": "5cd95395de30eff6ebccde5b",
+      "character": "5cdbe49b7ed9587226e794a0"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef61",
+      "dialog": "Then keep your mouth shut.",
+      "movie": "5cd95395de30eff6ebccde5b",
+      "character": "5cdbe49b7ed9587226e794a0"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef62",
+      "dialog": "My friend is sick.He needs water. Please!",
+      "movie": "5cd95395de30eff6ebccde5b",
+      "character": "5cd99d4bde30eff6ebccfe2e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef63",
+      "dialog": "I don't take orders from Orc-maggots.Saruman will have his prize.We will deliver them.",
+      "movie": "5cd95395de30eff6ebccde5b",
+      "character": "5cdbdecb6dc0baeae48cfab2"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef64",
+      "dialog": "Yes Pippin, my point is, he's clearly over reacting! Run! ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfc7c"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef65",
+      "dialog": "What?  It was just a detour. A shortcut",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfc7c"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef66",
+      "dialog": "A shortcut to what ?",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd0d"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef67",
+      "dialog": "Mushrooms!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfe2e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef68",
+      "dialog": "I think we should get off the road.",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfc15"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef69",
+      "dialog": "Oh! I think I've broken something",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfc7c"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef6a",
+      "dialog": "Get off the road! Quick!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfc15"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef6b",
+      "dialog": "Ssh.. be quiet",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd0d"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef6c",
+      "dialog": "Trust a Brandybuck and a Took!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd0d"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef6d",
+      "dialog": "Ooh!  that was     close!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfe2e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef6e",
+      "dialog": "What     is going on ?",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfe2e"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef6f",
+      "dialog": "So Gandalf, you try to lead them over Caradhras.  And     if that fails, where then will you go ? ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfea4"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef70",
+      "dialog": "If the mountain defeats you will you risk a more dangerous     road",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfea4"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef71",
+      "dialog": "Cuiva nwalca Carnirasse; nai yarvaxea rasselya!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfea4"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef72",
+      "dialog": "Anything ?",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd0d"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef73",
+      "dialog": "Nothing",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfc15"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef74",
+      "dialog": "There is a fell voice on the air",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd81"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef75",
+      "dialog": "It's Saruman!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfea0"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef76",
+      "dialog": "What was that!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfc7c"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef77",
+      "dialog": "We must get off the mountain! Make for the Gap of Rohan and     take the west road to my city!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfc57"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef78",
+      "dialog": "The Gap of Rohan takes us too close to Isengard!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfbe6"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef79",
+      "dialog": "If we cannot pass over the mountain, let us go under it! Let     us go through the Mines of Moria ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfd23"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef7a",
+      "dialog": "Moria... you fear to go into those mines.",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfea4"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef7b",
+      "dialog": "the dwarves delved too greadily     and too deep",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfea4"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef7c",
+      "dialog": "You know what they woke in the dark of Khazad-d'm",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfea4"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef7d",
+      "dialog": "No! , Losto Caradhras, sedho, hodo, nuitho i 'ruith!  ",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfea0"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef7e",
+      "dialog": "He's trying to bring down the mountain! Gandalf! We must     turn back!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfbe6"
+    },
+    {
+      "_id": "5cd96e05de30eff6ebccef7f",
+      "dialog": "Cuiva nwalca Carnirasse; Nai yarvaxea rasselya; taltuva     notto-carinnar!",
+      "movie": "5cd95395de30eff6ebccde5c",
+      "character": "5cd99d4bde30eff6ebccfea4"
+    }
+  ],
+  "pages": {
+    "current": 1,
+    "prev": 0,
+    "hasPrev": false,
+    "next": 2,
+    "hasNext": false,
+    "total": null
+  },
+  "items": {
+    "begin": null,
+    "end": null,
+    "total": 2390
+  }
+}
