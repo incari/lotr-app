@@ -1,16 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
+import { Header } from './templates/Header';
+import { BrowserRouter as Router } from 'react-router-dom';
 import Home from './pages/Home';
-import './App.css';
 
 function App() {
   return (
-    <div className='App'>
-      <header className='App-header'>
-        <img src={logo} className='App-logo' alt='logo' />
+    <>
+      <Header />
+      <Router className='App'>
         <Home />
-      </header>
-    </div>
+      </Router>
+    </>
   );
 }
 

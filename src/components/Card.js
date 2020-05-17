@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useQuote } from '../hooks/useQuote';
 import { Quotes } from './Quotes';
-
+import './Card.css';
 import { docs } from '../DB/quotes.json';
 
 export const Card = () => {
@@ -13,7 +13,8 @@ export const Card = () => {
   };
   const [random, setRandom] = useState(0);
 
-  const handleClick = () => {
+  const handleClick = e => {
+    e.preventDefault();
     let randomQuote = Math.floor(Math.random() * 2391);
     setRandom(randomQuote);
   };
@@ -22,7 +23,12 @@ export const Card = () => {
 
   return (
     <>
-      <button name='button' onClick={handleClick}>
+      <button
+        href='/'
+        className='action-button shadow animate color'
+        name='button'
+        onClick={handleClick}
+      >
         Get Random Quote
       </button>
       {random === 0 ? (

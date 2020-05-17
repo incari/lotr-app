@@ -1,0 +1,52 @@
+.newsletter {
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+  height: 200px;
+  justify-content: space-around;
+  left: 0;
+  margin: 0 auto;
+  max-width: 500px;
+  position: fixed;
+  right: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.epicfont {
+  font-family: 'MedievalSharp', cursive;
+  font-weight: bold;
+  font-size: 1.4em;
+  color: #282c34;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+}
+.inline {
+  display: inline-block;
+}
+input {
+  padding: 14px 5px 11px 10px;
+  font-family: 'Lato', sans-serif;
+  font-size: 13px;
+  text-decoration: none;
+  width: 50%;
+  background-color: transparent;
+  border: solid 1px #466468;
+  box-shadow: 0px 4px #466468;
+}
+.news-button {
+  padding: 10px;
+  width: 40%;
+  margin-left: 5px;
+}
+
+input:focus,
+button:focus {
+  outline: none;
+}
+/* Button style from card.css */
