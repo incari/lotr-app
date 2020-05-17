@@ -1,22 +1,14 @@
 .newsletter {
   justify-content: center;
-  align-items: center;
+  position: absolute;
   bottom: 0;
-  height: 200px;
-  justify-content: space-around;
-  left: 0;
-  margin: 0 auto;
-  max-width: 500px;
-  position: fixed;
-  right: 0;
   width: 100%;
-  z-index: 1000;
 }
 
 .epicfont {
   font-family: 'MedievalSharp', cursive;
   font-weight: bold;
-  font-size: 1.4em;
+  font-size: 1.2em;
   color: #282c34;
 }
 
@@ -42,7 +34,8 @@ input {
 .news-button {
   padding: 10px;
   width: 40%;
-  margin-left: 5px;
+  margin-top: 0px;
+  margin-left: 4px;
 }
 
 input:focus,

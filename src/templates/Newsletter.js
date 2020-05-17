@@ -5,7 +5,7 @@ export const Newsletter = () => {
 
   const handleSubmit = e => {
     e.preventDefault();
-    alert(value);
+    alert('boooom Chacalaca');
   };
 
   const handleChange = e => {

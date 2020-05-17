@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useQuote } from '../hooks/useQuote';
+//import { useQuote } from '../hooks/useQuote';
 import { Quotes } from './Quotes';
 import './Card.css';
 import { docs } from '../DB/quotes.json';
@@ -23,19 +23,21 @@ export const Card = () => {
 
   return (
     <>
-      <button
-        href='/'
-        className='action-button shadow animate color'
-        name='button'
-        onClick={handleClick}
-      >
-        Get Random Quote
-      </button>
-      {random === 0 ? (
-        <Quotes {...initialState} />
-      ) : (
-        <Quotes {...docs[random]} />
-      )}
+      <div className='card'>
+        <button
+          href='/'
+          className='card action-button shadow animate color'
+          name='button'
+          onClick={handleClick}
+        >
+          Get Random Quote
+        </button>
+        {random === 0 ? (
+          <Quotes {...initialState} />
+        ) : (
+          <Quotes {...docs[random]} />
+        )}
+      </div>
     </>
   );
 };
