@@ -3,15 +3,18 @@ import { Header } from './templates/Header';
 import { Newsletter } from './templates/Newsletter';
 import { BrowserRouter as Router } from 'react-router-dom';
 import Home from './pages/Home';
+import './App.css';
 
 function App() {
   return (
     <>
-      <Header />
-      <Router className='App'>
-        <Home />
-      </Router>
-      <Newsletter />
+      <div className='App'>
+        <Header />
+        <Router>
+          <Home />
+        </Router>
+        <Newsletter />
+      </div>
     </>
   );
 }

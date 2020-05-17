@@ -1,5 +1,6 @@
 .card {
   max-width: 500px;
+  margin: 0 auto;
 }
 .animate {
   transition: all 0.1s;

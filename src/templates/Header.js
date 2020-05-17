@@ -5,7 +5,7 @@ import './Header.css';
 export const Header = () => {
   return (
     <div className='header'>
-      <a href='/'>
+      <a href='/#'>
         <img src={logo} alt='' />
       </a>
     </div>
