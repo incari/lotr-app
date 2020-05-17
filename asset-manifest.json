@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/lotr-app/static/css/main.b9a733be.chunk.css",
-    "main.js": "/lotr-app/static/js/main.cdc3d978.chunk.js",
-    "main.js.map": "/lotr-app/static/js/main.cdc3d978.chunk.js.map",
+    "main.css": "/lotr-app/static/css/main.52f5c291.chunk.css",
+    "main.js": "/lotr-app/static/js/main.5a4577ac.chunk.js",
+    "main.js.map": "/lotr-app/static/js/main.5a4577ac.chunk.js.map",
     "runtime-main.js": "/lotr-app/static/js/runtime-main.de52cd82.js",
     "runtime-main.js.map": "/lotr-app/static/js/runtime-main.de52cd82.js.map",
-    "static/js/2.c9ac3fbb.chunk.js": "/lotr-app/static/js/2.c9ac3fbb.chunk.js",
-    "static/js/2.c9ac3fbb.chunk.js.map": "/lotr-app/static/js/2.c9ac3fbb.chunk.js.map",
+    "static/js/2.cfa19f46.chunk.js": "/lotr-app/static/js/2.cfa19f46.chunk.js",
+    "static/js/2.cfa19f46.chunk.js.map": "/lotr-app/static/js/2.cfa19f46.chunk.js.map",
     "index.html": "/lotr-app/index.html",
-    "precache-manifest.1827bef31d459c136198d09d6120a48b.js": "/lotr-app/precache-manifest.1827bef31d459c136198d09d6120a48b.js",
+    "precache-manifest.bed3875234866a1461bb49cfaf7ffccd.js": "/lotr-app/precache-manifest.bed3875234866a1461bb49cfaf7ffccd.js",
     "service-worker.js": "/lotr-app/service-worker.js",
-    "static/css/main.b9a733be.chunk.css.map": "/lotr-app/static/css/main.b9a733be.chunk.css.map",
-    "static/js/2.c9ac3fbb.chunk.js.LICENSE.txt": "/lotr-app/static/js/2.c9ac3fbb.chunk.js.LICENSE.txt",
+    "static/css/main.52f5c291.chunk.css.map": "/lotr-app/static/css/main.52f5c291.chunk.css.map",
+    "static/js/2.cfa19f46.chunk.js.LICENSE.txt": "/lotr-app/static/js/2.cfa19f46.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/lotr-app/static/media/backgroud.5b6ecd6e.jpg",
     "static/media/logo-lotr.png": "/lotr-app/static/media/logo-lotr.8b615882.png"
   },
   "entrypoints": [
     "static/js/runtime-main.de52cd82.js",
-    "static/js/2.c9ac3fbb.chunk.js",
-    "static/css/main.b9a733be.chunk.css",
-    "static/js/main.cdc3d978.chunk.js"
+    "static/js/2.cfa19f46.chunk.js",
+    "static/css/main.52f5c291.chunk.css",
+    "static/js/main.5a4577ac.chunk.js"
   ]
 }
