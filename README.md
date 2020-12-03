@@ -1,9 +1,9 @@
 ## One App to rule them all
 
 
-#Using public API to create a simple SPA with react
+# Using public API to create a simple SPA with react
 
-#Live demo: 
+# Live demo: 
 
 https://incari.github.io/lotr-app/
 
